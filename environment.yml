@@ -1,0 +1,6 @@
+name: YT_like_prediction_webapp
+dependencies:
+  - pickle
+  - pandas
+  - requests
+  - streamlit
