@@ -1,4 +1,4 @@
-# YT-Like-Prediction_Website
+# YT-Like-Prediction-Website
 ## Project Intro
   - [Final WebApp](https://nick-petruccelli-yt-views-pred-yt-like-prediction-webapp-od29m2.streamlit.app/)
   - For the final product of this project i created a website useing streamlit that will give you an estamate of how manny likes similar Youtube to the one you gave the model have. This will allow Youtube content creaters to compare there videos likes to the averedge of similar videos to get a feel for how there videos have been recived by there comunity.
