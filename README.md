@@ -60,7 +60,7 @@ For the model I wanted to build somthing that would estimate the likes a video s
   **Random Forest**: mean absolute error of around 300
   
   ### Model Flaws
-  Since my data was only 2000 videos come video catigories only had a few videos in them and some even had none this means that for the catigories with few videos predictions will probably not be too accurate and for the catigoies with no videos i will not be able to provide a estimate.
+  Since my sample size was only 2000 videos come video catigories only had a few videos in them and some even had none this means that for the catigories with few videos predictions will probably not be too accurate and for the catigoies with no videos i will not be able to provide a estimate.
 
 ## WebApp Creation
   - [Veiw Webapp here](https://nick-petruccelli-yt-views-pred-yt-like-prediction-webapp-od29m2.streamlit.app/)
