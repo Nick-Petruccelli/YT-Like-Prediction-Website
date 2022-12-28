@@ -2,6 +2,7 @@ import pickle
 import pandas as pd
 import streamlit as st
 import requests
+import sklearn
 
 # load model
 model = pickle.load(open('YT_likes_model.pkl', 'rb'))
