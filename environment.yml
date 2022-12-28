@@ -4,4 +4,4 @@ dependencies:
   - pandas
   - requests
   - streamlit
-  - sklearn
+  - scikit-learn
