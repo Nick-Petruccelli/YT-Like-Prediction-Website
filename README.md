@@ -30,7 +30,7 @@
   - Almost all of our continuos variables have an exponential distribution so we should keep that in mind when picking what models to use to best make predictions based on this data.
   - Likes, Veiws, and comments all seem to be positivly corelated with eachother which intuitivly makes sense, this means that when we make our models we should consider only choosing likes or comments in order to reduce multicoliniarity.
 
-![Corelation HeatMap](Pictures/corelation_hm.PNG)
+![Corelation HeatMap](Pictures/correlation_hm.PNG)
 
 **Within the catigorical variables there was a lot of interesting findings but these were the ones i found most notable.**
   - Politics, Sports, Entertainment, and Gaming are the most popular catigories on Youtube.
@@ -44,7 +44,7 @@
   - Science and technology way the third most viewed type of video which i found suprising because i figured most people would find that topic boring.
   - Education videos had one of the lower averede veiw counts but one of the higher averedge comment counts. I would bet this is because people leave alot of comments asking for more details on how to do whatever it is the video is trying to teach. Auto and veichle videos had a simmilar phenominon which i would argue was for the same reason.
 
-![cat_veiws_pt](Pictures/cat_veiws_pt.PNG)      ![cat_likes_pt](Pictures/cat_likes_pt.PNG)
+![cat_veiws_pt](Pictures/cat_views_pt.PNG)      ![cat_likes_pt](Pictures/cat_likes_pt.PNG)
 
 ## Building The Model
 For the model I wanted to build somthing that would estimate the likes a video should have.
